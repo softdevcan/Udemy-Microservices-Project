@@ -6,6 +6,7 @@ The following tools were used in the project:
   - PostgreSQL
   - MongoDB
   - Redis
+- IdentityServer
 - AutoMapper
 - Dapper
 - Domain Driven Design
