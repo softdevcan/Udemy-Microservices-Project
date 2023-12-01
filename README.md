@@ -1,5 +1,6 @@
 # Udemy-Microservices-Project
 The following tools were used in the project:
+- ASP .NET Core 7.0
 - Microservices Architecture
 - Databases:
   - MSSQL
